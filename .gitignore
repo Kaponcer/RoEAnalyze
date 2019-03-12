@@ -1,8 +1,11 @@
 #maven
 /target/
-log/
+/log/
 
 #eclipse files
 .classpath
 .project
 .settings
+
+#H2 DB
+RoEEntity.mv.db
